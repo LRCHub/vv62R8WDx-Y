@@ -1,0 +1,112 @@
+{
+  "version": 1,
+  "base_track": "Neo-Aspect (2018 リマスターver.)",
+  "base_artist": "Roselia",
+  "createdAt": "2026-02-07T11:18:28.686934Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Neo-Aspect",
+      "artist": "Roselia",
+      "has_synced": true,
+      "path": "select/01_Neo-Aspect_Roselia.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Neo-Aspect",
+      "artist": "Roselia",
+      "has_synced": true,
+      "path": "select/02_Neo-Aspect_Roselia.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Neo-Aspect - リマスターver.",
+      "artist": "Roselia",
+      "has_synced": true,
+      "path": "select/03_Neo-Aspect_-_リマスターver._Roselia.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Neo-Aspect",
+      "artist": "Roselia",
+      "has_synced": true,
+      "path": "select/04_Neo-Aspect_Roselia.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Neo-Aspect",
+      "artist": "Roselia (相羽あいな, 工藤晴香, 中島由貴, 櫻川めぐ, 志崎樺音)",
+      "has_synced": true,
+      "path": "select/05_Neo-Aspect_Roselia_(相羽あいな,_工藤晴香,_中島由貴,_櫻川めぐ,_志崎樺音).lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Neo-Aspect (Remix Ver.)",
+      "artist": "Roselia",
+      "has_synced": false,
+      "path": "select/06_Neo-Aspect_(Remix_Ver.)_Roselia.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Neo-Aspect (2018 リマスターver.)",
+      "artist": "Roselia",
+      "has_synced": true,
+      "path": "select/07_Neo-Aspect_(2018_リマスターver.)_Roselia.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Neo-Aspect (2018 remaster ver.)",
+      "artist": "Roselia",
+      "has_synced": true,
+      "path": "select/08_Neo-Aspect_(2018_remaster_ver.)_Roselia.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Neo-Aspect",
+      "artist": "Roselia (相羽あいな, 工藤晴香, 遠藤ゆりか, 櫻川めぐ, 明坂聡美)",
+      "has_synced": true,
+      "path": "select/09_Neo-Aspect_Roselia_(相羽あいな,_工藤晴香,_遠藤ゆりか,_櫻川めぐ,_明坂聡美).lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Neo-Aspect - Remasterd ver.",
+      "artist": "Roselia",
+      "has_synced": true,
+      "path": "select/10_Neo-Aspect_-_Remasterd_ver._Roselia.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Neo-Aspect (Remastered version)",
+      "artist": "Roselia",
+      "has_synced": true,
+      "path": "select/11_Neo-Aspect_(Remastered_version)_Roselia.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Neo-Aspect (Remaster ver.)",
+      "artist": "Roselia",
+      "has_synced": true,
+      "path": "select/12_Neo-Aspect_(Remaster_ver.)_Roselia.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Neo-Aspect",
+      "artist": "Roselia",
+      "has_synced": false,
+      "path": "select/pl_01_Neo-Aspect_Roselia.txt"
+    }
+  ]
+}
